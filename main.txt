@@ -1,1 +1,2 @@
 ini kalimat tadi diubah di branch main
+ini kalimat tadi diubah di branch feature/lorem untuk ke 2 kalinya
