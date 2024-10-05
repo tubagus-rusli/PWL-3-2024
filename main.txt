@@ -1,1 +1,1 @@
-ini kalimat pertama
+ini kalimat tadi diubah di branch feature/lorem
